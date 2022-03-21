@@ -12,6 +12,7 @@ Creation
    :maxdepth: -1
    :caption: Creation
 
+   creation/asarray.rst
    creation/zeros.rst
    creation/ones.rst
    creation/full_like.rst
@@ -19,5 +20,9 @@ Creation
    creation/tril.rst
    creation/triu.rst
    creation/empty.rst
+   creation/empty_like.rst
+   creation/eye.rst
+   creation/linspace.rst
    creation/array.rst
+   creation/logspace.rst
 
