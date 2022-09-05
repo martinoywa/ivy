@@ -9,6 +9,7 @@ Gradients
 
 
 .. toctree::
+   :hidden:
    :maxdepth: -1
    :caption: Gradients
 
@@ -20,6 +21,9 @@ Gradients
    gradients/variable_data.rst
    gradients/stop_gradient.rst
    gradients/execute_with_gradients.rst
+   gradients/value_and_grad.rst
+   gradients/jac.rst
+   gradients/grad.rst
    gradients/adam_step.rst
    gradients/optimizer_update.rst
    gradients/gradient_descent_update.rst
@@ -27,6 +31,8 @@ Gradients
    gradients/adam_update.rst
    gradients/lamb_update.rst
    gradients/GradientTracking:
+    """"""
+
     # noinspection PyShadowingNames
     def __init__.rst
 
